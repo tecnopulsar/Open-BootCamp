@@ -10,3 +10,4 @@ let estudianteSinEspacios= estudiante.replace(/\s/g,'')
 let includeNombreEstudiante=estudiante.includes(nombre)
 
 
+
