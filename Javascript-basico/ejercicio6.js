@@ -36,4 +36,3 @@ console.log(listaDirectoresTitulos);
 
 let listaDirectoresTitulosSE= [...listaPeliculasDirector, ...listaPeliculasTitulo]
 console.log(listaDirectoresTitulos);
-
