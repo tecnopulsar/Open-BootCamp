@@ -1,0 +1,21 @@
+
+
+.seccion {
+  background-color: darkslategray;
+  border: 1px solid darkslategray;
+
+  padding: 0.5 rem;
+  margin: 1 rem;
+
+}
+
+.parrafo {
+  background-color: white;
+  margin: 1rem;
+  padding: 1rem;
+  
+}
+
+.parrafo.dragging {
+  opacity: 0.3;
+}
